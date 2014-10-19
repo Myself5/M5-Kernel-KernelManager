@@ -1,0 +1,66 @@
+{
+
+    "downloads": [
+
+        {
+
+            "android": [ "4.4" ],
+            "url": "https://raw.githubusercontent.com/Myself5/M5-Kernel-KernelManager/master/Kernel/M5-Kernel-V4-PhilZ.zip",
+            "version": "V4 PhilZ Touch Recovery",
+            "note": "Again updated to work with newest CM builds"
+
+        },
+        {
+
+            "android": [ "4.4" ],
+            "url": "https://raw.githubusercontent.com/Myself5/M5-Kernel-KernelManager/master/Kernel/M5-Kernel-V4-CWM.zip",
+            "version": "V4 CWM Recovery",
+            "note": "Again updated to work with newest CM builds"
+
+        },
+        {
+
+            "android": [ "4.4" ],
+            "url": "https://raw.githubusercontent.com/Myself5/M5-Kernel-KernelManager/master/Kernel/M5-Kernel-V3-PhilZ.zip",
+            "version": "V3 PhilZ Touch Recovery",
+            "note": "Updated to work with newest CM builds"
+
+        },
+        {
+
+            "android": [ "4.4" ],
+            "url": "https://raw.githubusercontent.com/Myself5/M5-Kernel-KernelManager/master/Kernel/M5-Kernel-V3-CWM.zip",
+            "version": "V3 CWM Recovery",
+            "note": "Updated to work with newest CM builds"
+
+        },
+        {
+
+            "android": [ "4.4" ],
+            "url": "https://raw.githubusercontent.com/Myself5/M5-Kernel-KernelManager/master/Kernel/M5-Kernel-V2-CWM.zip",
+            "version": "V2 CWM Recovery",
+            "note": "More Features."
+
+        },
+        {
+
+            "android": [ "4.4" ],
+            "url": "https://raw.githubusercontent.com/Myself5/M5-Kernel-KernelManager/master/Kernel/M5-Kernel-V1-CWM.zip",
+            "version": "V1 CWM Recovery",
+            "note": "Initial Version"
+
+        }
+
+    ],
+    "lists": [
+
+        {
+
+            "url": "http://forum.xda-developers.com/xperia-z2/development/kernel-m5-kernel-t2858912",
+            "name": "XDA"
+
+        }
+
+    ]
+
+}
