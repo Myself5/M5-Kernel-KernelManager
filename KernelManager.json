@@ -3,6 +3,7 @@
     "downloads": [
 
         {
+
             "android": [ "4.4" ],
             "url": "https://raw.githubusercontent.com/Myself5/M5-Kernel-KernelManager/master/Kernel/M5-Kernel-V5-PhilZ.zip",
             "version": "V5 PhilZ Touch Recovery",
@@ -17,6 +18,8 @@
             "note": "CPU + GPU OC, D2W, CM Code Update, FauxSound Updates"
 
         },
+        {
+
             "android": [ "4.4" ],
             "url": "https://raw.githubusercontent.com/Myself5/M5-Kernel-KernelManager/master/Kernel/M5-Kernel-V4-PhilZ.zip",
             "version": "V4 PhilZ Touch Recovery",
